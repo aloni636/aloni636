@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm a passionate software dev. 
+I'm addicted to Markdown. 💉
+
+Also, I code for 10 hours to automate a 10 minutes task.
 
 **Interests:**
 
