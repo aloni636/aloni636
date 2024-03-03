@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm addicted to Markdown. 💉
+I'm a data engineer/analyst/big-data™️ and everything in between.
 
-Also, I code for 10 hours to automate a 10 minutes task.
+[My Gists](https://gist.github.com/aloni636). 👀
 
 **Interests:**
 
